@@ -1,0 +1,5 @@
+{
+    "editor.scrollPredominantAxis": true,
+    "workbench.list.horizontalScrolling": false,
+    "workbench.editor.scrollToSwitchTabs": false
+}
